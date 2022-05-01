@@ -1,4 +1,4 @@
-#Fundamentals of  Operating Systems HW Hello[Enter]World[Enter] By R.M.
+# FUNdamentals of  Operating Systems HW Hello[Enter]World[Enter] By R.M.
 To compile: 
 # Compile hello
 gcc -Wall -c hello.c
